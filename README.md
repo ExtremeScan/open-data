@@ -1,7 +1,9 @@
 # open-data
 Open data of public opinion polls and related materials
 
-### Support of military operations by 
+### Project Chronicles
+
+> Research on the attitudes of Russian residents towards the Russian Federation’s special military operation in Ukraine.
 
 | File | Fieldwork | Source |
 |---|---|---|
