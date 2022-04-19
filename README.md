@@ -11,7 +11,10 @@ Follow us:
 
 | Publication | Date | Download | Topic |
 |---|---|---|:---|
-| Post-release #1 | 2022-03-07 | [EN](publications/ExtremeScan_Post-release_#1_EN.pdf) / [RU](publications/ExtremeScan_Post-release_#1_RU.pdf) | |
+| Post-release #1 | 2022-03-07 | [EN](publications/ExtremeScan_Post-release_1_EN.pdf) / [RU](publications/ExtremeScan_Post-release_1_RU.pdf) | Russian citizens on the “special military operation” |
+| Post-release #2 | 2022-03-14 | [EN](publications/ExtremeScan_Post-release_2_EN.pdf) / [RU](publications/ExtremeScan_Post-release_2_RU.pdf) | What can be measured under military censorship |
+| Post-release #4 | 2022-04-02 | [EN](publications/ExtremeScan_Post-release_4_EN.pdf) / [RU](publications/ExtremeScan_Post-release_4_RU.pdf) | What the ratings won't tell you |
+| Post-release #5 | 2022-04-14 | [EN](publications/ExtremeScan_Post-release_5_EN.pdf) / [RU](publications/ExtremeScan_Post-release_5_RU.pdf) | Anatomy of Support |
 
 ###  Data sets
 
